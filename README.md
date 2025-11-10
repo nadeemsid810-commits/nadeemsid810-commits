@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nadeem Akhtar 👋
 
-<!--
-**nadeemsid810-commits/nadeemsid810-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer and open-source contributor.
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently working on some cool projects in React and Node.js.
+- 🌱 I’m currently learning about machine learning.
+- 👯 I’m looking to collaborate on exciting open-source projects.
+- 🤔 I’m looking for help with understanding advanced JavaScript.
+- 💬 Ask me about front-end development, web performance, or anything tech-related!
+- 📫 How to reach me: nadeem.cse@gmail.com
+- ⚡ Fun fact: I love hiking and photography.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies and Tools
+
+
+- **Languages:** JavaScript, Python, C++
+- **Web Frameworks:** React, Express
+- **Tools:** Git, Docker, VSCode
