@@ -14,6 +14,6 @@ I'm a passionate web developer and open-source contributor.
 ## Technologies and Tools
 
 
-- **Languages:** JavaScript, Python, C++
+- **Languages:** JavaScript, Java, C
 - **Web Frameworks:** React, Express
 - **Tools:** Git, Docker, VSCode
