@@ -8,7 +8,7 @@ I'm a passionate web developer and open-source contributor.
 - 👯 I’m looking to collaborate on exciting open-source projects.
 - 🤔 I’m looking for help with understanding advanced JavaScript.
 - 💬 Ask me about front-end development, web performance, or anything tech-related!
-- 📫 How to reach me: nadeem.cse@gmail.com
+- 📫 How to reach me: nadeemsid810@gmail.com
 - ⚡ Fun fact: I love hiking and photography.
 
 ## Technologies and Tools
